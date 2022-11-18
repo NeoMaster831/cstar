@@ -1,5 +1,5 @@
 # cstar
-💫 Celestial Star 💫 | External osu! cheat
+💫 Celestial Star 💫 | Internal osu! cheat
 
 ![title](https://user-images.githubusercontent.com/72684393/202748708-7cf473ec-85c3-4892-a1a6-1a8bd5c14612.jpg)
 
