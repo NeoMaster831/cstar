@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+C:\Users\last_\OneDrive\바탕 화면\CodeStuff-main\cstar\cstar\dllmain.cpp(126,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\last_\OneDrive\바탕 화면\CodeStuff-main\cstar\cstar\dllmain.cpp(135,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\last_\OneDrive\바탕 화면\CodeStuff-main\cstar\cstar\dllmain.cpp(148,51): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\last_\OneDrive\바탕 화면\CodeStuff-main\cstar\cstar\dllmain.cpp(154,47): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cstar.vcxproj -> C:\Users\last_\OneDrive\바탕 화면\CodeStuff-main\cstar\cstar\Debug\cstar.dll
