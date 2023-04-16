@@ -15,4 +15,4 @@ Relax
 Simple though, yet have high-quality performance
 
 ### Does it bypasses anticheat?
-**yes.**
+**no. u must dont use it for real, lol.**
