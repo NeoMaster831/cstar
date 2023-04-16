@@ -8,9 +8,9 @@ I decided to make this shit when the osu anticheat was updated.
 gl for cheating through.
 
 ### Features
-> AimAssist  
-Relax  
-Replay Player  
+> AimAssist (not implemented yet)  
+Relax
+
 
 Simple though, yet have high-quality performance
 
